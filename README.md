@@ -56,4 +56,4 @@ Feel free to contribute to the development of Task Node by submitting issues or 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
