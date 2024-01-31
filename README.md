@@ -46,6 +46,12 @@ Before you begin, make sure you have the following software installed:
 
 The app should now be running on your device or emulator.
 
+
+**You can install this app in your device/phone by clicking on the right Releases > First Release > app-release.apk and downloading the APK**
+
+## Demo and working
+![TaskNode](https://github.com/adityaxanand/tasknode/assets/82191607/c92773b2-d470-4955-a45b-69ffd91fa75b)
+
 ## Contributing
 
 Feel free to contribute to the development of Task Node by submitting issues or pull requests.
