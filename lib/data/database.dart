@@ -13,7 +13,7 @@ class ToDoDataBase {
   // run this method if this is the 1st time ever opening this app
   void createInitialData() {
     toDoList = [
-      ["What's up FED?", false],
+      ["What's up GDSC?", false],
       ["You need an App Developer right?", false],
       ["Then Please Recruit me!", false],
       ["I have a very basic knowlegde of Dart,Kotlin, Flutter and Android Studio, now this is done by flexible widget which is not working okay but okay!", false],
